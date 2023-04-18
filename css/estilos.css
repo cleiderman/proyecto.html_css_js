@@ -2,8 +2,17 @@ h2{
     color:red;
 }
 h1{
-    color: brown;
-    font-size: 50px;
+    background: #088395;
+    /* margin-left: 100px;
+    margin-bottom: 200px;
+    margin-right: 100px; */
+    /* margin:  100px; */
+    /* margin: 200px 100px; */
+    margin: 100px 10px 20px 500px;
+}
+p{
+    background: #ECC9EE;
+    padding: 100px;
 }
 #unico{
     color: blue;
@@ -25,3 +34,4 @@ h1{
 .celeste{
     color: #00ced1;
 }
+

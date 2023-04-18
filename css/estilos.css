@@ -1,3 +1,27 @@
 h2{
     color:red;
 }
+h1{
+    color: brown;
+    font-size: 50px;
+}
+#unico{
+    color: blue;
+    font-size: 60px;
+}
+.azul{
+    color: blue;
+}
+.fondo{
+    background: #444;
+}
+.color{
+    color: tomato;
+
+}
+.verde{
+    color: rgb(60, 177, 71);
+}
+.celeste{
+    color: #00ced1;
+}
